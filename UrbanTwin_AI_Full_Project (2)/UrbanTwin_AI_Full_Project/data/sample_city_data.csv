@@ -1,0 +1,7 @@
+scenario,parameter,value,unit
+Traffic Congestion,vehicles,8500,vehicles/hour
+Traffic Congestion,capacity,6000,vehicles/hour
+Water Shortage,demand_mld,180,MLD
+Water Shortage,supply_mld,145,MLD
+Waste Accumulation,waste_tpd,350,tonnes/day
+Waste Accumulation,collection_capacity,270,tonnes/day
